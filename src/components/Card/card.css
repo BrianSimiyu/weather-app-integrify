@@ -1,0 +1,35 @@
+.weatherApp__Card {
+  background: #ffff;
+  max-width: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin: 3rem auto;
+  border-radius: 5px;
+  padding: 1rem;
+}
+
+.weatherApp__Card-name {
+  font-family: var(--font-family);
+  font-size: 2rem;
+  margin-bottom: 3rem;
+  color: rgb(85, 85, 85);
+  font-weight: 600;
+}
+
+.weatherApp__Card-temp {
+  font-family: var(--font-family);
+  font-size: 4rem;
+  margin-bottom: 4rem;
+  font-weight: 700;
+}
+
+.weatherApp__Card-forecast {
+  font-family: var(--font-family);
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  color: grey;
+  font-weight: 500;
+  font-size: 1rem;
+}

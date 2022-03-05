@@ -1,0 +1,7 @@
+.weatherapp__header {
+  padding: 5rem 0 1rem 0;
+}
+
+.weatherapp__header h1 {
+  font-family: var(--font-family);
+}

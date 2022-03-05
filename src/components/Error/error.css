@@ -1,0 +1,10 @@
+.weatherapp__error {
+  margin: 2rem 0;
+}
+
+.weatherapp__error p {
+  font-family: var(--font-family);
+  color: #ffff;
+  background-color: red;
+  padding: 5px;
+}
